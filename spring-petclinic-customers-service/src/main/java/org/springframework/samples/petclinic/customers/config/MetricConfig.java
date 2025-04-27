@@ -20,4 +20,5 @@ public class MetricConfig {
   }
 
   // I made some changes here
+  // I added a comment to the code
 }
